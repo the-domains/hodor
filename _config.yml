@@ -1,0 +1,28 @@
+name: Hodor
+favicon: null
+layout_spectrum: 0.622684970498085
+typography_spectrum: 0.9866014667786658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3443714219611138
+  lightness: 0.08857546141371131
+  saturation: 0.8678182277362794
+  rhythmicContrast: 0.694746381836012
+purpose: []
