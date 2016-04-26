@@ -1,6 +1,6 @@
 name: Hodor
 favicon: null
-layout_spectrum: 0.622684970498085
+layout_spectrum: 0.27842
 typography_spectrum: 0.9866014667786658
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.3443714219611138
   lightness: 0.08857546141371131
-  saturation: 0.8678182277362794
+  saturation: 0.8125
   rhythmicContrast: 0.694746381836012
 purpose: []
